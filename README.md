@@ -1,1 +1,1 @@
-# Algorithms_Data_structure_Python
+### Дисциплина : Алгоритмы и структуры данных в языке Python
